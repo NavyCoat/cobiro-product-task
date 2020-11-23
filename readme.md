@@ -6,7 +6,7 @@ API z jednym endpointem umożlwiającym dodanie produktu.
 ---
 
 Todo:
-- Testy nie przechodzą, brakuje implementacji interfejsu HTTP w laravelu.
+- Brakuje implementacji interfejsu HTTP w laravelu.
 - Nie są zaimplementowane interfejsy do zapisu/odczytu danych.
 
 ## Zastosowano
