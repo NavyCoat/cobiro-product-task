@@ -1,7 +1,7 @@
-#Opis
+# Opis
 
 Zadanie rekrutacyjne dla Cobiro.
-Implementacja API z jednym endpointem umożlwiającym dodanie produktu.
+API z jednym endpointem umożlwiającym dodanie produktu.
 
 ---
 
